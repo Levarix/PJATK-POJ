@@ -1,3 +1,6 @@
+/*
+ Laboratorium3, zadanie 6  Jakub Słomiński, Maciej Rybacki
+*/
 public class Palindrom {
 
     private String palindrom;
