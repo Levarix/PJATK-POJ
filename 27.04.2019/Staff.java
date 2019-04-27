@@ -1,14 +1,13 @@
-package com.company;
 
 public class Staff extends Person {
     private String school;
     private double pay;
 
     public Staff (String _school, double _pay, String _name, String _address){
+        super(_name, _address);
         school = _school;
         pay = _pay;
-        name = _name;
-        address = _address;
+
     }
 
     public String getSchool() {
@@ -26,7 +25,8 @@ public class Staff extends Person {
     public void setPay(double pay) {
         this.pay = pay;
     }
+
     public String toString(){
-        return "Staff[Person[name= "+name+", address= "+address+"], school= "+school+", pay= "+pay+".]";
+        return "Staff[Person[name= "+getName()+", address= "+getAddress()+"], school= "+school+", pay= "+pay+".]";
     }
 }
