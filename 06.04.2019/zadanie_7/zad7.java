@@ -1,5 +1,5 @@
 /*
- Laboratorium3, zadanie 6  Jakub Słomiński, Maciej Rybacki
+ Laboratorium3, zadanie 7  Jakub Słomiński, Maciej Rybacki
 */
 public class Palindrom {
 
