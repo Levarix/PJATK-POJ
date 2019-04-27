@@ -5,7 +5,7 @@ public class Palindrom {
 
     private String palindrom;
 
-    public void ustawPalindrom(String palindrom) {
+    public void Palindrom(String palindrom) {
         palindrom = palindrom.replace(" ", "");
         palindrom = palindrom.replace(",", "");
         palindrom = palindrom.replace(".", "");
