@@ -1,5 +1,5 @@
 /*
-POJ - laboratorium 3 2019-04-27
+POJ - laboratorium 4 2019-04-27
 Grupa: Maciej Rybacki i Iwona Rymanowska
 Zadanie 2
 */
