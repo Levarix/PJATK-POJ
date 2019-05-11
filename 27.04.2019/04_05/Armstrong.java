@@ -1,3 +1,8 @@
+/*
+POJ - laboratorium 4 2019-04-27
+Grupa: Maciej Rybacki i Iwona Rymanowska
+Zadanie 5
+*/
 public class Armstrong {
     private int number;
     private boolean isArmstrong;
