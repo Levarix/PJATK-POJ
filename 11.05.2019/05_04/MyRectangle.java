@@ -8,7 +8,7 @@ public class MyRectangle {
     private MyPoint topLeftCorner;
     private MyPoint bottomRightCorner;
 
-    public MyTriangle(int x1, int y1, int x2, int y2) {
+    public Rectangle(int x1, int y1, int x2, int y2) {
         this.v1 = new MyPoint(x1, y1);
         this.v2 = new MyPoint(x2, y2);
     }
