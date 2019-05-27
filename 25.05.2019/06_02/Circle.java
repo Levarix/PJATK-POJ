@@ -1,6 +1,6 @@
 // praca w parach: Łukasz Ćwikliński s19334, Maciej Rybacki s18553
 
-package 04_02;
+package 06_02;
 
 public class Circle implements GeometricObject {
     protected double radius = 1.0;
