@@ -24,7 +24,7 @@ public class WordCounter {
 
     public void openFile(){
         try {
-            x = new Scanner(new File("/Users/levar/IdeaProjects/03_07/src/Words.txt"));
+            x = new Scanner(new File("Words.txt"));
         }
         catch (Exception e) {
             System.out.println("could not find file");
